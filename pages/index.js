@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.center}>
           <h1
             style={{
-              fontSize: '10em',
+              fontSize: '7em',
             }}
           >
             👬🪂
